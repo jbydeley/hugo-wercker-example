@@ -1,3 +1,3 @@
-baseurl = "http://jbydeley.github.io/"
+baseurl = "http://jbydeley.github.io/hugo-wercker-example/"
 languageCode = "en-us"
 title = "my new hugo site"
