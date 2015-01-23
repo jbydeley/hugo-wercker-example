@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on my new hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://jbydeley.github.io/hugo-wercker-example/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 22 Jan 2015 22:11:31 -0500</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://jbydeley.github.io/hugo-wercker-example/post/first/</link>
+      <pubDate>Thu, 22 Jan 2015 22:11:31 -0500</pubDate>
+      
+      <guid>http://jbydeley.github.io/hugo-wercker-example/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://jbydeley.github.io/hugo-wercker-example/about/</link>
+      <pubDate>Thu, 22 Jan 2015 21:28:20 -0500</pubDate>
+      
+      <guid>http://jbydeley.github.io/hugo-wercker-example/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Testing 123&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
